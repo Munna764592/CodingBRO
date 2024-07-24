@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "codeinoj backend",
+  "description": "codingbro backend",
   "main": "index.js",
   "type": "module",
   "scripts": {
